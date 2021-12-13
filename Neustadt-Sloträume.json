@@ -1062,6 +1062,107 @@
         }, 
         {
          "draworder":"topdown",
+         "id":57,
+         "name":"Read me",
+         "objects":[
+                {
+                 "height":19,
+                 "id":29,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"Times New Roman",
+                     "text":"Read me!",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":2946.90909090909,
+                 "y":864.318181818182
+                }, 
+                {
+                 "height":19,
+                 "id":30,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"Times New Roman",
+                     "text":"Read me!",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":3203,
+                 "y":1729
+                }, 
+                {
+                 "height":19,
+                 "id":31,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"Times New Roman",
+                     "text":"Read me!",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":1826.75,
+                 "y":1696.25
+                }, 
+                {
+                 "height":19,
+                 "id":32,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"Times New Roman",
+                     "text":"Read me!",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":898.545454545455,
+                 "y":1696.5
+                }, 
+                {
+                 "height":19,
+                 "id":33,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"Times New Roman",
+                     "text":"Read me!",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":1474.66666666667,
+                 "y":864.5
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":6,
          "name":"Namen Slotr\u00e4ume",
          "objects":[
@@ -1320,8 +1421,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":57,
- "nextobjectid":29,
+ "nextlayerid":59,
+ "nextobjectid":34,
  "orientation":"orthogonal",
  "properties":[
         {
