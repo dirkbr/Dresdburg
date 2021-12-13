@@ -482,8 +482,8 @@
                  "type":"",
                  "visible":true,
                  "width":72,
-                 "x":548,
-                 "y":699.833333333333
+                 "x":476,
+                 "y":510.833333333333
                 }, 
                 {
                  "height":19,
@@ -633,7 +633,7 @@
          "y":0
         }],
  "nextlayerid":39,
- "nextobjectid":34,
+ "nextobjectid":35,
  "orientation":"orthogonal",
  "properties":[
         {
