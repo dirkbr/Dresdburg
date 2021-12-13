@@ -1141,6 +1141,24 @@
                  "width":72,
                  "x":898.545454545455,
                  "y":1696.5
+                }, 
+                {
+                 "height":19,
+                 "id":35,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"Times New Roman",
+                     "text":"Read me!",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":1474.33333333333,
+                 "y":864.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1409,7 +1427,7 @@
          "y":0
         }],
  "nextlayerid":59,
- "nextobjectid":35,
+ "nextobjectid":36,
  "orientation":"orthogonal",
  "properties":[
         {
