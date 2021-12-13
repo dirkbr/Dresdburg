@@ -80,6 +80,27 @@
          "id":14,
          "name":"Zoom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Plenum"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke die LEERTASTE um die Videokonferenz zu betreten"
+                }, 
+                {
+                 "name":"jitsiWidth",
+                 "type":"string",
+                 "value":"70"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":30,
