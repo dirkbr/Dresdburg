@@ -440,12 +440,12 @@
         }, 
         {
          "draworder":"topdown",
-         "id":29,
+         "id":30,
          "name":"Read me",
          "objects":[
                 {
-                 "height":20.3333333333333,
-                 "id":8,
+                 "height":19,
+                 "id":13,
                  "name":"",
                  "rotation":0,
                  "text":
@@ -458,30 +458,12 @@
                  "type":"",
                  "visible":true,
                  "width":72,
-                 "x":451.666666666667,
-                 "y":127.666666666667
+                 "x":3,
+                 "y":671.5
                 }, 
                 {
-                 "height":17.8333,
-                 "id":9,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "fontfamily":"Times New Roman",
-                     "text":"Read me!",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":68,
-                 "x":162.666666666667,
-                 "y":127.666683333333
-                }, 
-                {
-                 "height":20.3333,
-                 "id":10,
+                 "height":19,
+                 "id":14,
                  "name":"",
                  "rotation":0,
                  "text":
@@ -494,12 +476,12 @@
                  "type":"",
                  "visible":true,
                  "width":72,
-                 "x":739.166666666667,
-                 "y":127.000016666667
+                 "x":162.5,
+                 "y":126.5
                 }, 
                 {
-                 "height":20.3333,
-                 "id":11,
+                 "height":19,
+                 "id":15,
                  "name":"",
                  "rotation":0,
                  "text":
@@ -512,12 +494,12 @@
                  "type":"",
                  "visible":true,
                  "width":72,
-                 "x":899.833333333333,
-                 "y":735.33335
+                 "x":451.5,
+                 "y":127.5
                 }, 
                 {
-                 "height":20.3333,
-                 "id":12,
+                 "height":19,
+                 "id":16,
                  "name":"",
                  "rotation":0,
                  "text":
@@ -530,8 +512,26 @@
                  "type":"",
                  "visible":true,
                  "width":72,
-                 "x":3.33333333333331,
-                 "y":670.500016666667
+                 "x":739,
+                 "y":128
+                }, 
+                {
+                 "height":19,
+                 "id":17,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"Times New Roman",
+                     "text":"Read me!",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":898.5,
+                 "y":735.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -539,8 +539,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":30,
- "nextobjectid":13,
+ "nextlayerid":31,
+ "nextobjectid":18,
  "orientation":"orthogonal",
  "properties":[
         {
