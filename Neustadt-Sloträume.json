@@ -1288,14 +1288,14 @@
                     {
                      "fontfamily":"MS Shell Dlg 2",
                      "pixelsize":30,
-                     "text":"Barnebys",
+                     "text":"Barneby's",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":220.666666666667,
-                 "x":1990.83333333333,
-                 "y":1738.33333333333
+                 "x":1996.83333333333,
+                 "y":1728.33333333333
                 }, 
                 {
                  "height":67.3333333333328,
@@ -1427,7 +1427,7 @@
          "y":0
         }],
  "nextlayerid":59,
- "nextobjectid":34,
+ "nextobjectid":35,
  "orientation":"orthogonal",
  "properties":[
         {
