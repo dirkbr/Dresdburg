@@ -186,6 +186,11 @@
                          "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/drive.google.com\/file\/d\/1nrrQeDxQZk9e_JhIdatNZrBKlTaeHpzE\/view?usp=sharing"
+                        }, 
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
                         }],
                  "type":"tilelayer",
                  "visible":true,
