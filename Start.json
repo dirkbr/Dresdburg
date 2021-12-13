@@ -484,22 +484,6 @@
                  "width":72,
                  "x":476,
                  "y":510.833333333333
-                }, 
-                {
-                 "height":19,
-                 "id":33,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "text":"Hallo Welt",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":72,
-                 "x":550.666666666667,
-                 "y":799.833333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
