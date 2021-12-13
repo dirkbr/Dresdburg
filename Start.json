@@ -484,6 +484,23 @@
                  "width":72,
                  "x":476,
                  "y":510.833333333333
+                }, 
+                {
+                 "height":19,
+                 "id":35,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "text":"XXXXXXXX",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":157,
+                 "y":369.833333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -617,7 +634,7 @@
          "y":0
         }],
  "nextlayerid":39,
- "nextobjectid":35,
+ "nextobjectid":36,
  "orientation":"orthogonal",
  "properties":[
         {
