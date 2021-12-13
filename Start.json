@@ -467,6 +467,39 @@
                  "width":72,
                  "x":430.666666666667,
                  "y":431.833333333333
+                }, 
+                {
+                 "height":19,
+                 "id":32,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "text":"XXXXXXXX",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":548,
+                 "y":699.833333333333
+                }, 
+                {
+                 "height":19,
+                 "id":33,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Hallo Welt",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":550.666666666667,
+                 "y":799.833333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -600,7 +633,7 @@
          "y":0
         }],
  "nextlayerid":39,
- "nextobjectid":32,
+ "nextobjectid":34,
  "orientation":"orthogonal",
  "properties":[
         {
