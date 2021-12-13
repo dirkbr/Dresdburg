@@ -185,7 +185,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"<iframe src=\"https:\/\/drive.google.com\/file\/d\/1nrrQeDxQZk9e_JhIdatNZrBKlTaeHpzE\/preview\" width=\"640\" height=\"480\" allow=\"autoplay\"><\/iframe>"
+                         "value":"https:\/\/dirkbr.github.io\/Dresdburg\/assets\/Workadventure.pdf"
                         }, 
                         {
                          "name":"silent",
