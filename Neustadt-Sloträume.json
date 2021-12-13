@@ -1288,14 +1288,14 @@
                     {
                      "fontfamily":"MS Shell Dlg 2",
                      "pixelsize":30,
-                     "text":"Barneby's",
+                     "text":"Barneby",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":220.666666666667,
-                 "x":1996.83333333333,
-                 "y":1728.33333333333
+                 "x":2009.83333333333,
+                 "y":1727.83333333333
                 }, 
                 {
                  "height":67.3333333333328,
