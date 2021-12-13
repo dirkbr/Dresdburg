@@ -621,25 +621,6 @@
                         }]
                 }, 
                 {
-                 "id":292,
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/konferenz.psyfako.org\/index.php\/plenum-lcolc2gaadjed37zqsv6bw7f3zvddnr7gjsoqwdqazth9lrivn4ylmim8f2gvd\/"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Dr\u00fccke die Leertaste,  um dem Plenum beizutreten"
-                        }]
-                }, 
-                {
                  "id":313,
                  "properties":[
                         {
