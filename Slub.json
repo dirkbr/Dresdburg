@@ -22,7 +22,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/drive.google.com\/file\/d\/1l8U-iPQAvWKb8olNANdIvwULAJCsN5IX\/view?usp=sharing"
                 }],
